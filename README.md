@@ -1,4 +1,4 @@
-# rusien33-aptos
+# message sender/aptos/rise in 
 The Objective of the Program
 The purpose of this module is to allow users to send customized messages on the blockchain, linked to their account address. The stored message can be updated if it already exists. This is done with a Message struct, which is pushed to the blockchain and whose owner can be changed.
 
